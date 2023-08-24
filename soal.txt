@@ -1,0 +1,10 @@
+1. Sistem apa yang anda kembangkan pada mata kuliah ini?
+Jawab:Perancangan Sistem Informasi Penjualan Online pada Toko Furniture
+
+2. Apa tujuan anda mengembangkan sistem tersebut?
+Jawab:Pengembangan sisten ini bertujuan untuk memudahkan owner dan user dalam penjualan furniture secara online, yan diharapkan mampu memudahkan proses jual beli produk
+lebih efisien dan mudah dilakukan serta diharapkan mampu memudahkan pengelolaan inventaris dan pengiriman produk lebih luas lagi.
+
+3. Apa harapan yang ingin anda dapatkan dari user ketika menggunakan sistem yang anda kembangkan?
+Jawab:User lebih mudah melihat apa saja produk yang tersedia ditoko tersebut dan memudahkan user dalam proses contact person terkait produk apa yang ingin ditnyakan secara detail
+dan memudahkan dalam proses transaksi dan pengiriman produk yang diinginkan.
