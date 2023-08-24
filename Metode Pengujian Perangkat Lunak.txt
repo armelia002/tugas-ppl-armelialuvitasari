@@ -1,0 +1,25 @@
+Pengujian perangkat lunak adalah proses penting dalam pengembangan perangkat lunak yang bertujuan untuk memastikan bahwa perangkat lunak berfungsi sesuai dengan yang diharapkan.
+Automation testing atau pengujian otomatis adalah pendekatan di mana alat atau skrip perangkat lunak digunakan untuk menjalankan pengujian secara otomatis tanpa banyak campur tangan manusia. 
+Metode pengujian perangkat lunak Automation Testing melibatkan beberapa langkah dan komponen utama, sebagai berikut:
+
+1. *Perencanaan Pengujian*: Langkah pertama adalah merencanakan pengujian. Ini mencakup penentuan tujuan pengujian, cakupan pengujian, skenario pengujian, dan persyaratan pengujian yang akan diotomatisasi. 
+Perencanaan yang baik membantu dalam mengidentifikasi komponen mana yang akan diuji otomatis dan bagaimana mengatur skenario pengujian.
+
+2. *Pemilihan Alat Pengujian*: Ada berbagai alat dan kerangka kerja (framework) yang tersedia untuk melakukan automation testing, seperti Selenium, Appium, Cucumber, JUnit, TestNG, dll. 
+Pemilihan alat yang sesuai sangat penting untuk memastikan kompatibilitas dengan jenis perangkat lunak yang diuji dan lingkungan pengujian.
+
+3. *Pembuatan Skrip Pengujian*: Skrip pengujian otomatis dibuat menggunakan bahasa pemrograman atau sintaks khusus yang didukung oleh alat pengujian yang digunakan. 
+Skrip ini menirukan tindakan yang biasanya dilakukan oleh pengguna pada perangkat lunak. Contoh tindakan termasuk mengklik tombol, mengisi formulir, memverifikasi hasil, dan lainnya.
+
+4. *Eksekusi Skrip Pengujian*: Setelah skrip pengujian dibuat, mereka dieksekusi oleh alat pengujian. Alat ini akan membuka aplikasi atau situs web yang diuji, melakukan tindakan sesuai dengan skrip, dan mencatat hasilnya. 
+Proses ini berlangsung tanpa campur tangan manusia dan dapat diulang berkali-kali.
+
+5. *Verifikasi dan Validasi Hasil*: Setelah eksekusi skrip selesai, alat pengujian akan menghasilkan laporan yang berisi hasil pengujian. 
+Hasil ini kemudian divalidasi untuk memastikan bahwa perilaku perangkat lunak sesuai dengan yang diharapkan. Jika ada kesalahan atau kegagalan, laporan akan mencantumkannya dengan detail.
+
+6. *Pemeliharaan Skrip*: Seiring perkembangan perangkat lunak, kemungkinan akan ada perubahan yang mempengaruhi perilaku atau antarmuka pengguna. 
+Oleh karena itu, skrip pengujian otomatis perlu diperbarui agar tetap sesuai dengan perubahan tersebut.
+
+Keuntungan dari metode pengujian perangkat lunak automation testing meliputi efisiensi dalam waktu dan sumber daya, reproduktibilitas yang tinggi, dan kemampuan untuk menjalankan pengujian pada skala yang lebih besar. 
+Namun, perlu diingat bahwa tidak semua jenis pengujian dapat diotomatisasi dengan efektif. Pengujian manual masih diperlukan untuk skenario yang kompleks, pengujian UI/UX, dan untuk mendapatkan 
+wawasan yang lebih mendalam tentang pengalaman pengguna.
